@@ -1,2 +1,2 @@
 ﻿# Pos-inventory-system
-#pos system frontend
+#pos system 
