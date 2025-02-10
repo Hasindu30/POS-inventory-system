@@ -22,7 +22,7 @@ import javax.swing.table.DefaultTableModel;
 public class pos extends javax.swing.JFrame {
 
     /**
-     * Creates new form pos
+     * Creates new form POS
      */
     public pos() {
         initComponents();
